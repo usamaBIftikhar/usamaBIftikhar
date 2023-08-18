@@ -35,12 +35,9 @@
 
 ### Myself:
     As a Software Engineer with expertise in frontend, backend, and mobile development, I am dedicated to writing maintainable and high-performing code. I specialize in building user-friendly mobile and web applications using cutting-edge tools and technologies such as NodeJs, ReactJs, React Native, ExpressJs, MongoDB, Firebase, Next, Vue, Redux, Docker, Kubernetes, RESTful API's.
-
-My experience in building both mobile and web applications that meet and exceed clients' expectations has equipped me with the necessary skills to deliver exceptional results. I have a keen eye for detail and thrive in challenging and collaborative environments where I can continuously improve my technical and soft skills.
-
-Whether it's designing, developing, testing, or deploying applications, I am passionate about every aspect of the software development life cycle. I am committed to staying up-to-date with the latest industry trends and best practices to ensure that my work is always of the highest quality.
-
-If you're looking for a Software Engineer who can build efficient, user-friendly, and maintainable mobile and web applications across various platforms, look no further. Let's collaborate to achieve your business goals and create exceptional user experiences.
+    My experience in building both mobile and web applications that meet and exceed clients' expectations has equipped me with the necessary skills to deliver exceptional results. I have a keen eye for detail and thrive in challenging and collaborative environments where I can continuously improve my technical and soft skills.
+    Whether it's designing, developing, testing, or deploying applications, I am passionate about every aspect of the software development life cycle. I am committed to staying up-to-date with the latest industry trends and best practices to ensure that my work is always of the highest quality.
+    If you're looking for a Software Engineer who can build efficient, user-friendly, and maintainable mobile and web applications across various platforms, look no further. Let's collaborate to achieve your business goals and create exceptional user experiences.
 
 </br>
 
